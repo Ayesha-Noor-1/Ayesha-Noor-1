@@ -17,8 +17,9 @@
 ---
 
 ## 🛠 Tech Stack
-HTML • CSS • JavaScript • APIs • Git • GitHub  
-n8n • GCP • Looker Studio • GA4  
+HTML • CSS • JavaScript • APIs • n8n 
+• GCP • Looker Studio • GA4 • Flutter • Docker • Python 
+• SEO • AWS 
 
 ## 📫 Connect
 🔗 LinkedIn: https://www.linkedin.com/in/ayesha-noor-2246b131b/
