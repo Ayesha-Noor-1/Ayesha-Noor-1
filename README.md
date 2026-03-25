@@ -20,15 +20,6 @@
 HTML • CSS • JavaScript • APIs • Git • GitHub  
 n8n • GCP • Looker Studio • GA4  
 
----
-
-## 📂 Projects
-- **AI Email Automation** — Workflow automation using n8n  
-- **Analytics Dashboard** — Data visualization with Looker Studio  
-- **Web Projects** — Responsive frontend applications  
-
----
-
 ## 📫 Connect
 🔗 LinkedIn: https://www.linkedin.com/in/ayesha-noor-2246b131b/
 📧 Email: ayeshanoor5102004@gmail.com
